@@ -1,0 +1,11 @@
+{
+  "name": "resistor-calculator",
+  "version": "0.0.1",
+  "description": "A resistor color code calculator.",
+  "dependencies": {
+    "amd-loader": "*",
+    "mocha": "*",
+    "chai": "*",
+    "require": "*"
+  }
+}
